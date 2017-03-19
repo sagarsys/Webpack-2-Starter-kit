@@ -4,7 +4,7 @@
 - Used and Tested with a Test Proxy PHP server
 
 ----------------------------------
-Includes:
+***Includes:***
 - DEV AND PROD environment builds
 - ES6 Babel Transpiling
 - SASS Loader with autoprefixing and compiling to CSS
@@ -15,12 +15,12 @@ Includes:
 
 ---------------------------
 
-Requirements :
+***Requirements:***
 - Node / NPM / YARN
 
 ---------------------------
 
-Getting Started:
+***Getting Started:***
 - Clone or download repository
 - Run `npm install` or `yarn` to install dependencies
 - Setup proxy url for your project in `./webpack.dev-server.js` -:- `"**": "http://localhost:4242/WEBPACK-PROXY-TEST/"`
@@ -28,7 +28,7 @@ Getting Started:
 
 ----------------------------
 
-Tasks:
+***Tasks:***
 
 - `npm run build`
    - Sets the `NODE_ENV` to `production`
@@ -41,7 +41,7 @@ Tasks:
 
 --------------------------------
 
-TODO:
+***TODO:***
 
 - Fix Webpack Optimize minimize in `prod`
 - Fix Webpack Optimize Commonchunks in `prod`
