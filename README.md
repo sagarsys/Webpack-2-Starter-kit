@@ -23,7 +23,7 @@ Requirements :
 Getting Started:
 - Clone or download repository
 - Run `npm install` or `yarn` to install dependencies
-- Setup proxy url for your project in `./webpack.dev-server.js` : `"**": "http://localhost:4242/WEBPACK-PROXY-TEST/"`
+- Setup proxy url for your project in `./webpack.dev-server.js` -:- `"**": "http://localhost:4242/WEBPACK-PROXY-TEST/"`
 
 
 ----------------------------
