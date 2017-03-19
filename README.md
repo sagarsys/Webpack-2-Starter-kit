@@ -37,3 +37,12 @@ Tasks:
 - `npm run dev`
    - Sets the `NODE_ENV` to `development`
    - Creates a `localhost` server at port `8080` with hot module replacement enabled - e.g: Output can be viewed in the browser at `http:\\localhost:8080\index.html`
+
+
+--------------------------------
+
+TODO:
+
+- Fix Webpack Optimize minimize in `prod`
+- Fix Webpack Optimize Commonchunks in `prod`
+- Improve the way image minification works
