@@ -46,3 +46,4 @@
 - Fix Webpack Optimize minimize in `prod`
 - Fix Webpack Optimize Commonchunks in `prod`
 - Improve the way image minification works
+- Integrate with twig loader
